@@ -11,6 +11,12 @@ A deep learning and computer vision project for dashcam-based vehicle proximity 
 | ![Original frame](assets/original.jpg) | ![Annotated detections](assets/result.jpg) |
 | [Original stream](demo/assessment_stream.mp4) | [Annotated demo](demo/carros.mp4) |
 
+### Animated previews
+
+| Original dashcam feed | Annotated result |
+|---|---|
+| ![Original video preview](demo/assessment_stream.gif) | ![Annotated video preview](demo/carros.gif) |
+
 Open [`demo/index.html`](demo/index.html) locally to compare both recordings side by side. Browser playback supports MP4.
 
 ## Problem and approach
